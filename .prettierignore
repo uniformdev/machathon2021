@@ -1,0 +1,8 @@
+package.json
+lerna.json
+tsconfig.json
+readme.md
+node_modules
+.next
+yarn.lock
+public
