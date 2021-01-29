@@ -2,6 +2,20 @@
 
 [Submission here](https://devpost.com/software/universal-personalization-across-cms-commerce-and-search)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/994a0378-cbe5-468f-9ef4-362f211338d5/deploy-status)](https://app.netlify.com/sites/machdemouniform/deploys)
+
+## Built with
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework
+- [Tailwind Landing Page from @tailwindtoolbox](https://github.com/tailwindtoolbox/Landing-Page) - UI theme
+- [Next.js](https://nextjs.org/) - React framework
+- [Next.js Commerce](https://nextjs.org/commerce) - parts of the BigCommerce framework
+- [Algolia](https://www.algolia.com/) for talks and product search
+- [BigCommerce](https://www.bigcommerce.com/) for product catalog and checkout (via GraphQL and REST API)
+- [Contentful](https://www.contentful.com/) for all things content
+- [Netlify](https://www.netlify.com/) for serverless functions, Jamstack builds and fast delivery
+- [Uniform](https://uniform.dev) as edge personalization, tracking and orchestration
+- Google Analytics for personalization analytics and data collection
+
 ## Getting Started
 
 ### Pre-requisites
